@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**RafaCalderonR/RafaCalderonR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![enter image description here](https://i.ibb.co/6bKRH26/Hi-There.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 &nbsp;Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript"> 
+<img src="https://img.shields.io/badge/rxjs%20-%23323330.svg?&style=for-the-badge&logo=reactivex&logoColor=a21f85"> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
+<img src="https://img.shields.io/badge/scala%20%20-%23323330.svg?&style=for-the-badge&logo=scala&logoColor=df3423"/>   <img src="https://img.shields.io/badge/Angular%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=red"/>  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"> 
+<img src="https://img.shields.io/badge/nestjs%20-%23323330.svg?&style=for-the-badge&logo=nestjs&logoColor=red"> 
+<img src="https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=DE33A6"> 
+<img src="https://img.shields.io/badge/cypress%20-%23323330.svg?&style=for-the-badge&logo=cypress&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring%20-%23323330.svg?&style=for-the-badge&logo=spring&logoColor=3ba145"> 
+<img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=016189"> 
+<img src="https://img.shields.io/badge/MongoDb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=3ba145"> 
+<img src="https://img.shields.io/badge/neo4j%20-%23323330.svg?&style=for-the-badge&logo=neo4j&logoColor=65B345"> 
+<img src="https://img.shields.io/badge/rabbitmq%20-%23323330.svg?&style=for-the-badge&logo=rabbitmq&logoColor=F76300"> 
+<img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2391e6"> 
+
+</p>
+
