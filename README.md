@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/neo4j%20-%23323330.svg?&style=for-the-badge&logo=neo4j&logoColor=65B345"> 
 <img src="https://img.shields.io/badge/rabbitmq%20-%23323330.svg?&style=for-the-badge&logo=rabbitmq&logoColor=F76300"> 
 <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=2391e6"> 
+<img src="https://img.shields.io/badge/tensorflow%20-%23323330.svg?&style=for-the-badge&logo=tensorflow&logoColor=2391e6"> 
 
 </p>
 
