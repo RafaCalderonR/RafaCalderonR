@@ -1,14 +1,10 @@
 
 
-<img src="https://viajes.nationalgeographic.com.es/medio/2020/11/20/yick-cheong-building_fd7dcce0_1254x836.jpg" width="100%" />
-
-
-
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript"> 
 <img src="https://img.shields.io/badge/rxjs%20-%23323330.svg?&style=for-the-badge&logo=reactivex&logoColor=a21f85"> 
-<img src="https://img.shields.io/badge/scala%20%20-%23323330.svg?&style=for-the-badge&logo=scala&logoColor=df3423"/>   <img src="https://img.shields.io/badge/Angular%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=red"/>  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"> 
+<img src="https://img.shields.io/badge/cloujure%20%20-%23323330.svg?&style=for-the-badge&logo=scala&logoColor=df3423"/>   <img src="https://img.shields.io/badge/Angular%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=red"/>  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"> 
 <img src="https://img.shields.io/badge/nestjs%20-%23323330.svg?&style=for-the-badge&logo=nestjs&logoColor=red"> 
 <img src="https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=DE33A6"> 
 <img src="https://img.shields.io/badge/cypress%20-%23323330.svg?&style=for-the-badge&logo=cypress&logoColor=white"> 
