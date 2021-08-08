@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript"> 
 <img src="https://img.shields.io/badge/rxjs%20-%23323330.svg?&style=for-the-badge&logo=reactivex&logoColor=a21f85"> 
-<img src="https://img.shields.io/badge/cloujure%20%20-%23323330.svg?&style=for-the-badge&logo=clojure&logoColor=df3423"/>   <img src="https://img.shields.io/badge/Angular%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=red"/>  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"> 
+<img src="https://img.shields.io/badge/kotlin%20%20-%23323330.svg?&style=for-the-badge&logo=kotlin&logoColor=fbb64d"/>   <img src="https://img.shields.io/badge/Angular%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=red"/>  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=orange"/> <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"> 
 <img src="https://img.shields.io/badge/nestjs%20-%23323330.svg?&style=for-the-badge&logo=nestjs&logoColor=red"> 
 <img src="https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=DE33A6"> 
 <img src="https://img.shields.io/badge/spring%20-%23323330.svg?&style=for-the-badge&logo=spring&logoColor=3ba145"> 
